@@ -1,0 +1,22 @@
+Explicandole a un niño de 12 años.
+
+Que son las variables?
+Las variables son elementos que pueden tener valores variables como sun nombre lo indica. A menudo de los suele comparar con cajas
+que pueden contener distintos tipos de elementos como los vamores númericos, las cadenas de texto o tambien llamados strings, entre otros.
+
+Que son las Strings?
+Las strings son cadenas de texto que pueden tener todo tipo de caracteres, sean numericos o de texto. 
+Pueden juntarse varios strings para formar uno mas grande (concatenarse). Suelen usarse para manejar información.
+
+Que son las funciones?
+Las funciones son pequeños bloques de codigo reutilizables que son capaces de procesar información. 
+Pueden tener datos de entrada los cuales se denominan argumentos y pueden tener return el cual retorna los datos procesados.
+
+Que son las declaraciones?
+Las declaraciones o "statements" como se las conoce en ingles, son bloques de instrucciones de código que se separan con punto y coma
+y pueden tener varias lineas de código.
+
+Que son los valores Booleanos?
+Los valores booleanos se usan principalmente en informatica para la toma de decisiones las cuales pueden ser Verdaderas (True) o False (Falsas)
+Provienen de la lógica de boole y es comunmente usado en el código binario.
+
